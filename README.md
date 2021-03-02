@@ -25,6 +25,6 @@ The script will `your_files` sharing a common name, and calculate the level of s
 The sample data provided consists on modeled human CDR H3 sequences using immuneSIM (https://immunesim.readthedocs.io/en/latest/). experiment_c* files were intentionally build from experiment_a* files to simulate sample contamination. 
 
 NOTES: 
-* This script was tested on python 3.6 and pandas 0.25.
+* This script has been tested on python 3.6, python 3.7 and pandas 0.25.
 * To run the script from this repository use `python contamination_analysis.py ./data_contamination/experiment ./data_contamination/modeled_metadata.txt`
 * There should be no repeated CDR3 sequences in individual files.
