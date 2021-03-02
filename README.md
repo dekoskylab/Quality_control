@@ -26,5 +26,5 @@ The sample data provided consists on modeled human CDR H3 sequences using immune
 
 NOTES: 
 * This script was tested on python 3.6 and pandas 0.25.
-* To run the script from this repository use `python contamination_analysis.py ./data/experiment ./data/modeled_metadata.txt`
+* To run the script from this repository use `python contamination_analysis.py ./data_contamination/experiment ./data_contamination/modeled_metadata.txt`
 * There should be no repeated CDR3 sequences in individual files.
