@@ -10,8 +10,8 @@ Usage:  `bash precision_hamming_calculator.sh UNIQUE_FILE1 UNIQUE_FILE2`
 
 It calculates precision from file1 and file2. file1 should be unique_pairs, as should file2
 
-UNIQUE_FILE1=$1
-UNIQUE_FILE2=$2
+NOTES:
+* This script has been tested only on bash 4.2
 
 # 2. Rapid analysis to check for PCR contamination in adaptive immune receptor data
 
