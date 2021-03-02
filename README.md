@@ -20,7 +20,7 @@ UNIQUE_FILE2=$2
 Usage:
 `python contamination_analysis.py your_files your_metadata`
 
-The script will your_files sharing a common name, and calculate the level of shared CDR3 nt sequences. Next, it will merge that information with run metadata, to help track contamination events. 
+The script will `your_files` sharing a common name, and calculate the level of shared CDR3 nt sequences. Next, it will merge that information with `your_metadata`, to help track contamination events. 
 
 The sample data provided consists on modeled human CDR H3 sequences using immuneSIM (https://immunesim.readthedocs.io/en/latest/). experiment_c* files were intentionally build from experiment_a* files to simulate sample contamination. 
 
