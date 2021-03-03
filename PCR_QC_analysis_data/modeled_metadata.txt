@@ -1,0 +1,19 @@
+file	contact	sample_type	date
+experiment_aa	J.A	"PBMC, control"	20190103
+experiment_ab	J.A	"PBMC, control"	20190321
+experiment_ac	M.S	Plasma cells from Bone marrow	20190630
+experiment_ad	P.B	"PBMC, control"	20191101
+experiment_ae	M.C	"PBMC, control"	20191222
+experiment_af	M.S	"PBMC, control"	20200124
+experiment_ag	J.A	Plasma cells from Bone marrow	20200301
+experiment_ah	P.B	"PMBC, EBOV recovered"	20200429
+experiment_ai	P.B	"PBMC, SARS-CoV2"	20200621
+experiment_aj	M.A	"PMBC, EBOV recovered"	20201103
+experiment_ak	T.Y	Plasma cells from Bone marrow	20201201
+experiment_al	T.Y	"PMBC, EBOV recovered"	20201212
+experiment_am	W.Q	"PBMC, SARS-CoV2"	20201221
+experiment_an	J.A	"PMBC, EBOV recovered"	20201229
+experiment_ao	M.S	"PBMC, control"	20210104
+experiment_c1	W.Q	Plasma cells from Bone marrow	20190304
+experiment_c2	P.B	"PMBC, EBOV recovered"	20201103
+experiment_c3	J.A	"PBMC, control"	20200504
