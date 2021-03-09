@@ -2,7 +2,7 @@
 
 This repository contains scripts and sample data for quality control of Adaptive Immune Receptor Repertoire (AIRR) sequencing (AIRR-seq).
 
-# 1. Heavy and light chain pairing precision of in split-replicate B cell samples
+# 1. Heavy and light chain pairing precision in split-replicate B cell samples
 
 `precision_calculator.sh` is a bash script used to compute the pairing precision of heavy and light chains observed in split-replicate B cell samples
 
